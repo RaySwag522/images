@@ -1,4 +1,4 @@
-#!/bin/bash
+    #!/bin/bash
 
 IMAGE_VARIANT=$1
 
